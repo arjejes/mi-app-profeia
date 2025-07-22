@@ -1,0 +1,6 @@
+{
+  "name": "Copy of ProfeIA",
+  "description": "An AI-powered assistant for teachers to generate lesson plans, exams, speeches, and more, using the Gemini API. Designed to be professional, modern, and intuitive.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
